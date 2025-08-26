@@ -47,7 +47,7 @@ localStorage.setItem('chakra-ui-color-mode', 'dark');
 
 // check if path is /discord
 if (window.location.pathname === '/discord') {
-    window.location.href = 'https://discord.gg/ZCKsDrpVV6';
+    window.location.href = 'https://discord.gg/X6CfMYJGbV';
 } else if (window.location.pathname === '/vote') {
     window.location.href = 'https://minecraftpocket-servers.com/server/96869/vote/';
 } else if (window.location.pathname === '/') {
