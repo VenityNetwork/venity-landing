@@ -16,7 +16,7 @@ const links = {
     Store: "https://store.venitymc.com/",
     Stats: "https://player.venitymc.com/",
     Helpdesk: "https://support.venitymc.com/",
-    Discord: "https://discord.gg/ZCKsDrpVV6"
+    Discord: "https://discord.gg/X6CfMYJGbV"
 };
 
 const Navbar = () => {
